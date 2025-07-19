@@ -32,7 +32,7 @@ A full-stack mini project where **admins (businesses)** can create feedback form
 
 ### 1. Clone the Repo
 
-git clone [https://github.com/your-username/feedback-platform.git](https://github.com/HiImCkS/Feedback_app/tree/main/Feedback_app)
+git clone https://github.com/HiImCkS/Feedback_app/tree/main/Feedback_app
 cd feedback-platform
 
 ### 2. Create Virtual Environment & Install Dependencies
